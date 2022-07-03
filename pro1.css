@@ -1,0 +1,13 @@
+body{
+    background-image: url("/home/home/Downloads/img5.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    cursor: pointer;
+    color:beige;
+}
+.menu{
+    color:black;
+    margin: 15px;
+    margin-left: 5px;
+
+}

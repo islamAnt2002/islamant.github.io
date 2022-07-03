@@ -1,0 +1,14 @@
+button{
+    color: black;
+    width: 70px;
+    padding: 10px;
+}
+body{
+    background-image: url("/home/home/Downloads/img00.jpg");
+}
+*{
+    color: white;
+}
+input{
+    color: black;
+}
